@@ -36,5 +36,4 @@ images/
 
 
 Live website:
-
-https://github.com/Manobharathi-M/interntask1.git
+https://manobharathi-m.github.io/interntask1/
